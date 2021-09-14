@@ -14,6 +14,7 @@ const llvm_tags = Dict(
     v"11.0.1" => "43ff75f2c3feef64f9d73328230d34dac8832a91",
     v"12.0.0" => "d28af7c654d8db0b68c175db5ce212d74fb5e9bc",
     v"12.0.1" => "fed41342a82f5a3a9201819a82bf7a48313e296b",
+    v"13.0.0" => "f6b09e394a5fad4b33f8746195377f4f638e2c8d", #rc3
 )
 
 const buildscript = raw"""
